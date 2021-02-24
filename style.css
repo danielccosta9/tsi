@@ -1,0 +1,25 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+header{
+    margin-left: 1em;
+    width: 95%;
+    box-shadow: 0 5px 15px #000b3485;
+}
+
+.menu {
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+
+.jumbotron{
+    padding: 5em;
+    padding-bottom: 3em;
+    text-align: right;
+    margin: 1em;
+    margin-top: 10em;
+}
+
